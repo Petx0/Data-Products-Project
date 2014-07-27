@@ -1,0 +1,14 @@
+base
+bitops
+datasets
+devtools
+graphics
+grDevices
+knitr
+methods
+RCurl
+shiny
+shinyapps
+slidify
+stats
+utils
